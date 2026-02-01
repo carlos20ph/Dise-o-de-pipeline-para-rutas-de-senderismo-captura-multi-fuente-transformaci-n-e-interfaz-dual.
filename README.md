@@ -1,2 +1,2 @@
-# Dise-o-de-pipeline-para-rutas-de-senderismo-captura-multi-fuente-transformaci-n-e-interfaz-dual.
+# Diseño-de-pipeline-para-rutas-de-senderismo-captura-multi-fuente-transformaci-n-e-interfaz-dual.
 Este proyecto implementa técnicas de data engineering para un sistema completo de gestión de rutas de senderismo, resolviendo la fragmentación de información mediante un pipeline automatizado que integra múltiples fuentes. La arquitectura modular abarca nueve componentes con mecanismos de idempotencia y monitorización exhaustiva. 
